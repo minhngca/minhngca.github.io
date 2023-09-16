@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+Hello,
+
+I am Minh Nguyen, an Master of Data Science - Computational Linguistics student at UBC. 
+I am originally from Vietnam and living in British Columbia, Canada for some time.
+
+I love AI and programming, building websites and participating in video game creation process.
