@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello: World",
+    "section": "",
+    "text": "This is a personal website for Minh Nguyen.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello,\nI am Minh Nguyen, an Master of Data Science - Computational Linguistics student at UBC. I am originally from Vietnam and living in British Columbia, Canada for some time.\nI love AI and programming, building websites and participating in video game creation process."
+  }
+]
